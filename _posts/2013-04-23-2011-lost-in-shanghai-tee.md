@@ -11,6 +11,6 @@ tags: [Tee, Shanghai, 2011]
 
 不过T恤上的这个词今天看也还是对的，没有丝毫的无病呻吟，Lost in Shanghai，年纪越大，越觉得迷惑，人生过了三分之一多，梦想在哪，每天在追求什么，还没想清楚。
 
-我还没放弃，还是相信人不能没有梦想，别管多老。
+我还是相信人不能没有梦想，别管多老。
 
 <a href="http://www.flickr.com/photos/95186598@N08/8675292506/" title="Flickr 上 imyanbo 的 LostInShanghai-2011"><img src="http://farm9.staticflickr.com/8390/8675292506_7a77fb7eb4.jpg" width="500" height="333" alt="LostInShanghai-2011"></a>
