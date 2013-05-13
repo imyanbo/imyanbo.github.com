@@ -2,7 +2,7 @@
 layout: post
 title: "Fengjing: An Ancient Watertown in Shanghai"
 description: "Fengjing Traveling"
-category: Tee
+category: Travel
 tags: [Travel, Fengjing]
 ---
 {% include JB/setup %}
