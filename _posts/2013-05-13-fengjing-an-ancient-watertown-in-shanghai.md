@@ -7,7 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-周末单位组织了枫泾两日游，虽然吃住条件一般，但是难得这里没有进行过度宣传，来游玩的人并不多，可以很悠然的逛逛老街，看看水乡人家，坐在廊桥边打打扑克，喝喝茶，很是舒服。
+上周末单位组织了枫泾两日游，虽然吃住条件一般，但是难得这里没有进行过度宣传，来游玩的人并不多，可以很悠然的逛逛老街，看看水乡人家，坐在廊桥边打打扑克，喝喝茶，很是舒服。
 
 <a href="http://photo.weibo.com/1689881354/wbphotos/large/photo_id/3577614684277349?refer=weibofeedv5" title="Fengjing"><img src="http://ww3.sinaimg.cn/large/64b98b0ajw1e4n0hc2qxwj218g18gkbo.jpg" width="500" height="500" alt="Fengjing-1"></a>
 
