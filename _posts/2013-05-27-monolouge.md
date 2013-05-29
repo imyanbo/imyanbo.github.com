@@ -18,3 +18,5 @@ tags: [Monolouge, 2013]
 
 一位干活很让我放心的的合作单位的小朋友，准备放弃眼前不错的工作机会与成长空间，回家创业，并且创业的项目与所学专业完全无关。“不可惜吗？我觉得你很适合你的专业，而且已经做的很好。”，“对于我的技术积累是有点可惜，但我相信我积累的思维方式、做事方式应该不会浪费。”我惊讶他的坚定，当面嘲笑他的幼稚，但我心里知道自己在羡慕他这么早就开始思考自己想要什么，并付之行动。祝他好运。
 
+
+<a href="http://photo.weibo.com/1689881354/wbphotos/large/mid/3582839038052830/pid/64b98b0ajw1e53ohoee3hj20h00h0q4e" title="Monolouge"><img src="http://ww1.sinaimg.cn/mw690/64b98b0ajw1e53ohoee3hj20h00h0q4e.jpg" width="500" height="500" alt="Tatoo"></a>
